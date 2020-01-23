@@ -1,5 +1,5 @@
 
-
+/*A program to find the second largest of a list*
 #include <stdio.h>
 #include <limits.h>
 
